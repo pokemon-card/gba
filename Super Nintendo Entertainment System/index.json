@@ -1,9 +1,0 @@
-{
-    "games": [
-        {
-            "title": "Donkey Kong Country",
-            "file": "Donkey Kong Country (USA).sfc"
-        }
-    ],
-    "core": "snes9x"
-}
