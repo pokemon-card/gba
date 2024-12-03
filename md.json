@@ -1,0 +1,10 @@
+{
+    "name": "ROMS",
+    "consoles": [
+        {
+            "name": "SUPER NINTENDO ENTERTAINMENT SYSTEM",
+            "folder": "Super Nintendo Entertainment System",
+            "core": "snes9x"
+        }
+    ]
+}
