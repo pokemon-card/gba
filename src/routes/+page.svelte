@@ -54,7 +54,7 @@
     </div> 
     </div>
     <div class="flex justify-center mt-2">
-    <h1>This is the </h1> <Button class=" pl-1 pr-0 pt-0 pb-0 m-0 h-auto" variant="link" href="https://pokemon-card.github.io/blank/">library.</Button>
+    <h1>This is the </h1> <Button class=" pl-1 pr-0 pt-0 pb-0 m-0 h-auto" variant="link" href="https://pokemon-card.github.io/blank/">library (Copy the link).</Button>
     </div>
   <style>
     .hovered {
