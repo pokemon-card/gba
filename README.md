@@ -13,5 +13,4 @@ Or, at the wiki linked above.
 
 Lead Developer - Cattn
 > Developed by MSG.
-> a
 
