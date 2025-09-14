@@ -1,0 +1,33 @@
+{
+    "games": [
+        {
+            "title": "Donkey Kong",
+            "file": "Donkey Kong.gb"
+        },
+        {
+            "title": "Kirby's Dream Land",
+            "file": "Kirby's Dream Land.gb"
+        },
+        {
+            "title": "Kirby's Dream Land 2",
+            "file": "Kirby's Dream Land 2.gb"
+        },
+        {
+            "title": "Super Mario Land",
+            "file": "Super Mario Land.gb"
+        },
+        {
+            "title": "Super Mario Land 2: 6 Golden Coins",
+            "file": "Super Mario Land 2 - 6 Golden Coins.gb"
+        },
+        {
+            "title": "Tetris",
+            "file": "Tetris.gb"
+        },
+        {
+            "title": "The Legend Of Zelda: Link's Awakening",
+            "file": "The Legend of Zelda - Link's Awakening.gbc"
+        }
+    ],
+    "core": "mgba"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "ROMS",
+    "consoles": [
+        {
+            "name": "NINTENDO GAME BOY",
+            "folder": "Nintendo Game Boy",
+            "core": "mgba"
+        },
+        }
+    ]
+}
